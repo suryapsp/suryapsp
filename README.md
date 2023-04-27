@@ -8,8 +8,7 @@
 
 💬 Ask me about: Computer Science, Functional Programming or Python.
 
-![suryapsp's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryapsp&show_icons=true&theme=synthwave)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suryapsp&theme=synthwave)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryapsp&theme=synthwave" />
 
 
