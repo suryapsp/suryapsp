@@ -10,8 +10,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryapsp&hide_progress=true&theme=synthwave" alt="suryapsp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suryapsp&theme=synthwave" alt="suryapsp" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryapsp&theme=synthwave" alt="suryapsp" /></p>
 
 
