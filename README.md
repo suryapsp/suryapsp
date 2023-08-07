@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there
 
 [🔭 I’m currently working on: Implementing a programming language with Racket.]: #
 
-📫 How to reach me: `suryapsp` on Discord.
+Discord: `suryapsp`
 
-📫 Email: **suryasingh2522@gmail.com**
+Email: **suryasingh2522@gmail.com**
 
 [🌱 I’m currently learning: Racket]: #
 
