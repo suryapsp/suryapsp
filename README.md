@@ -11,6 +11,5 @@ Email: **suryasingh2522@gmail.com**
 [💬 Ask me about: Computer Science or Functional Programming.]: #
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suryapsp&theme=synthwave)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=suryapsp&theme=synthwave" />
 
 
