@@ -2,8 +2,6 @@
 
 [🔭 I’m currently working on: Implementing a programming language with Racket.]: #
 
-Discord: `suryapsp`
-
 Email: **suryasingh2522@gmail.com**
 
 [🌱 I’m currently learning: Racket]: #
