@@ -1,6 +1,6 @@
 ### Hi there
 
-Email: **suryasingh2522@gmail.com**\
+Email: **suryasingh@ieee.org**\
 Discord: **suryapsp**\
 Personal Site and Blog: **https://suryapsp.github.io/**
 
